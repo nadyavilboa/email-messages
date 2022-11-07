@@ -1,2 +1,2 @@
 # email-messages
-# email-рассылка
+email-рассылка
